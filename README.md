@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/threatfeed-parser/actions/workflows/python-checks.yml/badge.svg)
+
 # Threat Feed Parser
 
 Summarize a local plain-text feed export by line tags and record status; does not extract or validate indicators.
